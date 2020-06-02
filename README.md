@@ -17,11 +17,21 @@ What things you need to install the software and how to install them.
 
 A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
-1. clone this repository
-  `` ``
+1. clone this repository into a folder of your choice
 
-End with an example of getting some data out of the system or using it for a little demo
+  `` 
+  $ git clone https://github.com/SnyderMbishai/fizz-buzz.git
+  ``
+  
+  
+2. cd into it
+
+  `` $ cd fizz-buzz ``
+  
+3. Run the file
+
+ `` $ python fizz_buzz.py ``
+ 
 
 ## Running the tests
 
@@ -30,6 +40,4 @@ Explain how to run the automated tests for this system
 ## Authors
 
 Snyder Mbishai
-
-
 
