@@ -19,18 +19,18 @@ A step by step series of examples that tell you how to get a development env run
 
 1. clone this repository into a folder of your choice
 
-  `` 
-  $ git clone https://github.com/SnyderMbishai/fizz-buzz.git
-  ``
+    `` 
+    $ git clone https://github.com/SnyderMbishai/fizz-buzz.git
+    ``
   
   
 2. cd into it
 
-  `` $ cd fizz-buzz ``
+    `` $ cd fizz-buzz ``
   
 3. Run the file
 
- `` $ python fizz_buzz.py ``
+   `` $ python fizz_buzz.py ``
  
 
 ## Running the tests
