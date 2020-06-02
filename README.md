@@ -8,14 +8,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them. For ease, ensure you have `npm` installed or get it from [here](https://www.npmjs.com/get-npm).
+What things you need to install the software and how to install them.
 
- 1. Node.js  
- 2. ExpressJS  
- 3. Nodemon  
- 4. Mocha
- 5. Chai
- 6. Pug
+ 1. [Python 3.8](https://www.python.org/downloads/)
 
 
 ### Installing
@@ -23,16 +18,8 @@ What things you need to install the software and how to install them. For ease, 
 A step by step series of examples that tell you how to get a development env running
 
 Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
+1. clone this repository
+  `` ``
 
 End with an example of getting some data out of the system or using it for a little demo
 
