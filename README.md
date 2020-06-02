@@ -1,20 +1,22 @@
 # fizz-buzz
 
-# Project Title
-
-One Paragraph of project description goes here
+A program that prints the numbers from 1 to 100. But for multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+What things you need to install the software and how to install them. For ease, ensure you have `npm` installed or get it from [here](https://www.npmjs.com/get-npm).
 
-```
-Give examples
-```
+ 1. Node.js  
+ 2. ExpressJS  
+ 3. Nodemon  
+ 4. Mocha
+ 5. Chai
+ 6. Pug
+
 
 ### Installing
 
